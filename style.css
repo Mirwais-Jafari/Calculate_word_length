@@ -1,0 +1,33 @@
+body {
+    font-family: monospace;
+    background-color: #202020;
+    color: #fff;
+}
+.container {
+    text-align: center;
+}
+input {
+    width: 400px;
+    outline: 0;
+    border-radius: 15px;
+    color: black;
+    padding: 10px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #a7a5a5;
+}
+#output {
+    margin: 0 auto;
+    width: 400px;
+    height: 40px;
+    padding: 20px 0;
+    font-weight: 800;
+    font-size: 30px;
+}
+#btn {
+    background-color: #a7a5a5;
+    color: #000;
+    border-radius: 10px;
+    transition: ease-in;
+    box-shadow: 2px 3px 4px 5px #d4c7c7;
+}
